@@ -25,7 +25,7 @@ setup(name='webdiff',
           'flask',
           'pillow',
           'requests',
-          'PyGithub==1.25.2'
+          'PyGithub==1.55'
       ],
       include_package_data=True,
       package_data = {
